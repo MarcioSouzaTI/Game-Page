@@ -1,0 +1,14 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 182" width="256" height="182">
+	<title>youtube-105-svg</title>
+	<defs>
+		<image  width="256" height="256" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQAAAAEAAQMAAABmvDolAAAAAXNSR0IB2cksfwAAAAZQTFRFAAAA////pdmf3QAAAAJ0Uk5TAP9bkSK1AAABJElEQVR4nO2YzQ2DMAxGXfXQY0dIN2G0MBqjZASOHBBugaaggr9E4i8Cv+v3BI6DAIdIURRFORevG3+QUssjGhxPFfMft1RD/pzLmUuf3+Zz5hzdYHyJSYGe+itIuW/JXRb6Ih6y4NAihyqNLPS9ymShxqv0GyLnYYHhTrTkMQJoJHMRI4BORwguRgB7FSGUqwhmW6HaR8gOFupEBJu60FxHQPlJBFbhYgL88KowCClslgoqxAspfFDWEawKSfzspfJXDIWdxgdzsLDOrLfxQBo1FC+fu4Oj/bLTg5yWnmAQBV5znWDlvAkJ/UlOJgv9WZAJCWC3XCeAXhedABqRE26EP/7LcI2gCPcVxCKI8CXcT5h/JgoaY6UVCI6bxoqiKMqJeQPCYT4qiiacagAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+		.s0 { fill: #000000 } 
+	</style>
+	<use id="Camada 1" href="#img1" x="0" y="-35"/>
+	<g id="Layer">
+		<path id="Layer" fill-rule="evenodd" class="s0" d="m226.7 9.6c10.8 2.9 19.4 11.5 22.3 22.4 5.3 19.7 5.3 60.9 5.3 60.9 0 0 0 41.1-5.3 60.8-2.9 10.9-11.5 19.5-22.3 22.4-19.8 5.3-98.8 5.3-98.8 5.3 0 0-79.1 0-98.8-5.3-10.9-2.9-19.5-11.5-22.4-22.4-5.3-19.7-5.3-60.8-5.3-60.8 0 0 0-41.2 5.3-60.9 2.9-10.9 11.5-19.5 22.4-22.4 19.7-5.3 98.8-5.3 98.8-5.3 0 0 79 0 98.8 5.3zm-196.2 5.5c-8.9 2.3-16 9.4-18.4 18.3-5 18.8-5.1 59.1-5.1 59.5 0 0.4 0.1 40.6 5.1 59.4 2.4 8.9 9.5 16 18.4 18.4 18.8 5 96.6 5.1 97.4 5.1 0.7 0 78.5-0.1 97.3-5.1 9-2.4 16-9.5 18.4-18.4 5-18.8 5.1-59 5.1-59.4 0-0.4-0.1-40.7-5.1-59.5-2.4-8.9-9.4-16-18.4-18.3-18.8-5.1-96.6-5.1-97.3-5.1-0.8 0-78.6 0-97.4 5.1z"/>
+		<path id="Layer" fill-rule="evenodd" class="s0" d="m168.3 92.9l-65.7 37.9v-75.9zm-60.1 28.2l48.8-28.2-48.8-28.2z"/>
+	</g>
+</svg>

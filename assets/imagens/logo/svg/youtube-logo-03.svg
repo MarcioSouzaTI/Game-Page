@@ -1,0 +1,14 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256">
+	<title>youtube-logo-7625-svg</title>
+	<defs>
+		<image  width="256" height="256" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQAAAAEAAQMAAABmvDolAAAAAXNSR0IB2cksfwAAAAZQTFRFAAAA////pdmf3QAAAAJ0Uk5TAP9bkSK1AAABRUlEQVR4nO2YSw6DIBCGabropkmP4FE4mhyNo3gElywMtKlStTKPRoOUzL+dT+cBJs6vlEgkEtWiuwovAcFrWMl8hS9ho1X8to2H0M3xRyq+JNLxOUsywfIVGgIckSHmuMKAwUuIRTQw0OM1xipbGPBEE2MbiXOaZfAuQ7B4l2OfwFEygR6f0zgIvQsY8EEyAE9M+j1rCkCPggEYGkAPkwHYAwD0vjCALgeAXskjgD4H0JwOuP8AdAXAIMAEtAIUAngBBBDgd6CEj7cMQAtwCFDCLwoDaCoAsvx4n79fHLElnb/rMRbSDEsxuZjv3/1Je2Gng+E5JgkKDByjBgUcxywi7SbSsEJvjKVMM0PZbizjjrb+NAw4nv1IGphIG4YwUf3ksoJFRBsWnKWNVm+LZwDLNB8gnWQRTxXq1EYafFokEonq1RPMTeT12MjlSwAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+		.s0 { fill: #000000 } 
+	</style>
+	<use id="Camada 1" href="#img1" x="0" y="0"/>
+	<g id="Layer">
+		<path id="Layer" fill-rule="evenodd" class="s0" d="m127.9 218.1c-3.2 0-76.6-0.1-95.9-5.3-12.3-3.3-22.1-13-25.4-25.3-5.1-19.4-5.2-58-5.2-59.6 0-1.7 0.1-40.3 5.3-59.7 3.2-12.3 13-22 25.3-25.3 19.3-5.2 92.7-5.2 95.9-5.2 3.1 0 76.5 0 95.8 5.2 12.4 3.3 22.1 13 25.4 25.3 5.1 19.4 5.2 58 5.2 59.7 0 1.6-0.1 40.2-5.2 59.6-3.3 12.3-13 22-25.4 25.3-19.3 5.2-92.7 5.3-95.8 5.3zm0-169.2c-25.9 0-78.7 1-93 4.9-8.5 2.2-15.1 8.9-17.4 17.3-4.8 18-4.9 56.4-4.9 56.8 0 0.3 0.1 38.8 4.9 56.7 2.3 8.4 8.9 15.1 17.4 17.4 17.9 4.8 92.2 4.8 93 4.8 25.8 0 78.6-1 92.9-4.8 8.5-2.3 15.1-9 17.4-17.4 4.8-18 4.9-56.4 4.9-56.7 0-0.4-0.1-38.8-4.9-56.8-2.3-8.4-8.9-15.1-17.4-17.3-17.9-4.9-92.2-4.9-92.9-4.9z"/>
+		<path id="Layer" fill-rule="evenodd" class="s0" d="m103.7 169.7c-1 0-1.9-0.2-2.8-0.7-1.8-1-2.8-2.9-2.8-4.9v-72.5c0-2 1-3.9 2.8-4.9 1.7-1 3.9-1 5.6 0l62.8 36.3c1.7 1 2.8 2.9 2.8 4.9 0 2-1.1 3.8-2.8 4.8l-62.8 36.3c-0.9 0.5-1.8 0.7-2.8 0.7zm5.6-68.4v53.1l45.9-26.5z"/>
+	</g>
+</svg>

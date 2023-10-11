@@ -1,0 +1,14 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 254 181" width="254" height="181">
+	<title>youtube-logo-7625-svg</title>
+	<defs>
+		<image  width="254" height="181" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAP4AAAC1AgMAAAACZ6ptAAAAAXNSR0IB2cksfwAAAAxQTFRFAAAA////////////OMA7qAAAAAR0Uk5TAGXW/wfv4kUAAAHqSURBVHic7drBVYQwEAbgXX1PDx4swENKsAToyBKgBDuCEiyBgwV48LC+t8t4WBjCAm7y//jiw5l7vp0dQoBkdjsLi9+NfSXn+Ioc+CRL0ebXxt4tjh1iOR9N+Wq8zo5/CR0+T4T//Dnewys3H5f1jE1gkkJsApMUimhA3mKv/2V8+oADgBP5D0S8IuyR8X4R7iHAK8IDBHhFcBDgFaHAgFKBCgO0ithFEGl64AYE9DLcgsCBmwYiR24aeBPhEQRach6J9MAzC2QokLNAyQI1dy8NQMUC6Hi9HWGgYYGPvwKgC5IC6IKkALog6ZqGAwcWOBrQA+hjQQH0saAA+ljYBHBigZYFxIANAY4F4FekHsgMMMAAA7pvHgIoWaA2YAsAPQ/omZj+ZjJgQwD9kuVYIP2bqgH/HKC/XOlv5/Sf/2sB9CYMvQ2UficrIUBvSNJbovSm7FrbwvTGdPq99YTnC/QJR90BFQsULJAlA0oWyDuAPi50LEAfmdKHtvSxMbqi6ME1uqIMHQwVBjQKFBgwNGGAMylXwEHjdRqg19Fr4sAug99LUyCA383jECD3AKQIo2YepAijdiKkCOPGsPiWqtE/WKGpKzqFaYNdVGPcbHddTA4LbYLBScw39wWmEdTtuJDKDz9sYUHGN37xL4BqMy+bAAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+		.s0 { fill: #000000 } 
+	</style>
+	<g id="Layer">
+		<use id="Camada 2" href="#img1" x="0" y="0"/>
+		<path id="Layer" fill-rule="evenodd" class="s0" d="m126.9 181.1c-3.2 0-76.6-0.1-95.9-5.3-12.3-3.3-22.1-13-25.4-25.3-5.1-19.4-5.2-58-5.2-59.6 0-1.7 0.1-40.3 5.3-59.7 3.2-12.3 13-22 25.3-25.3 19.3-5.2 92.7-5.2 95.9-5.2 3.1 0 76.5 0 95.8 5.2 12.4 3.3 22.1 13 25.4 25.3 5.1 19.4 5.2 58 5.2 59.7 0 1.6-0.1 40.2-5.2 59.6-3.3 12.3-13 22-25.4 25.3-19.3 5.2-92.7 5.3-95.8 5.3zm0-169.2c-25.9 0-78.7 1-93 4.9-8.5 2.2-15.1 8.9-17.4 17.3-4.8 18-4.9 56.4-4.9 56.8 0 0.3 0.1 38.8 4.9 56.7 2.3 8.4 8.9 15.1 17.4 17.4 17.9 4.8 92.2 4.8 93 4.8 25.8 0 78.6-1 92.9-4.8 8.5-2.3 15.1-9 17.4-17.4 4.8-18 4.9-56.4 4.9-56.7 0-0.4-0.1-38.8-4.9-56.8-2.3-8.4-8.9-15.1-17.4-17.3-17.9-4.9-92.2-4.9-92.9-4.9z"/>
+		<path id="Layer" fill-rule="evenodd" class="s0" d="m102.7 132.7c-1 0-1.9-0.2-2.8-0.7-1.8-1-2.8-2.9-2.8-4.9v-72.5c0-2 1-3.9 2.8-4.9 1.7-1 3.9-1 5.6 0l62.8 36.3c1.7 1 2.8 2.9 2.8 4.9 0 2-1.1 3.8-2.8 4.8l-62.8 36.3c-0.9 0.5-1.8 0.7-2.8 0.7zm5.6-68.4v53.1l45.9-26.5z"/>
+	</g>
+</svg>

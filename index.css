@@ -1,0 +1,129 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+}
+
+
+
+/* Estilos gerais */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #222; /* fundo escuro */
+    color: #eee; /* texto claro */
+    margin: 0;
+    padding: 0;
+    
+}
+
+.header_container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 2rem;
+    background-color: #333; /* um tom ligeiramente mais claro para o cabeçalho */
+    /* alteração */
+    position: fixed;
+    width: 100%;
+    z-index: 1000;
+}
+
+.logo_box .logo_link {
+    color: #fff; /* texto branco para o logo */
+    font-size: 1.5rem;
+    text-decoration: none;
+}
+
+.navbar {
+    /* margin-left: auto; */
+}
+
+.nav-links {
+    display: flex;
+    gap: 15px;
+}
+
+.nav-link {
+    position: relative; 
+}
+
+.nav-item {
+    color: #eee; /* cor clara para itens de navegação */
+    text-decoration: none;
+    padding: 8px 15px;
+    border-radius: 5px;
+    transition: background-color 0.3s ease; /* transição suave para o hover */
+}
+
+.nav-item:hover {
+    background-color: #444; /* cor de fundo mais clara ao passar o mouse */
+}
+
+/* Estilos para dropdown */
+.dropdown-icon {
+    vertical-align: middle;
+    font-size: 18px; /* ajuste conforme necessário */
+    margin-left: 5px; /* espaço entre o texto e o ícone */
+}
+
+.dropdown-menu {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    background-color: #333; 
+    border: 1px solid #444;
+    border-radius: 5px;
+    z-index: 1;
+    width: max-content;
+}
+
+.dropdown:hover {
+    display: block;
+}
+
+.dropdown-item a {
+    color: #eee;
+    padding: 8px 15px;
+    display: block;
+    text-decoration: none;
+    transition: background-color 0.3s ease;
+}
+
+.dropdown-item a:hover {
+    background-color: #444;
+    color: #FFBA00;
+    /* font-size: 15px; */
+}
+
+.btn-login {
+    width: 7rem;
+    height: 2.1rem;
+    background-color: #ffba00;
+    border-radius: 0.375rem;
+}
+
+/* --------------- Main ---------------- */
+.main_container {
+    display: flex;
+    /* margin-top: 70px; */
+    padding-top: 70px;
+    /* background: rgb(169, 169, 237);     */
+    height: 800px;
+    border: solid red;
+}
+.text_lore {
+    height: 300px;
+    border: solid blue;
+}
+/* -------------- Footer ---------------- */
+.footer_container {
+    background: rgb(2, 2, 38);
+    height: 100px;
+}
+.footer_text {
+    color: white;
+    font-size: 25px;
+}
