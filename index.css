@@ -22,7 +22,7 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 1rem 2rem;
+    padding: 0.8rem 2rem;
     background-color: #333; /* um tom ligeiramente mais claro para o cabeçalho */
     /* alteração */
     position: fixed;
@@ -71,7 +71,7 @@ body {
 .dropdown-menu {
     display: none;
     position: absolute;
-    top: 100%;
+    top: 150%;
     left: 0;
     background-color: #333; 
     border: 1px solid #444;
@@ -104,6 +104,17 @@ body {
     background-color: #ffba00;
     border-radius: 0.375rem;
 }
+/* --------- Giro da Seta ----------- */
+.arrow-rotate {
+    transform: rotate(180deg);
+    transition: transform 0.3s ease; /* Adiciona uma transição suave */
+}
+
+.nav-item.active {
+    border: 2px solid #fff; /* Borda no menu - pode ser ajustada a cor e o tamanho da borda conforme necessário */
+}
+
+
 
 /* --------------- Main ---------------- */
 .main_container {
