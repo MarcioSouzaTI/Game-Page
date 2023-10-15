@@ -36,8 +36,6 @@ body {
     text-decoration: none;
 }
 
-
-
 .nav-links {
     display: flex;
     gap: 15px;
@@ -78,9 +76,9 @@ body {
     width: max-content;
 }
 
-.dropdown:hover {
+/* .dropdown:hover {
     display: block;
-}
+} */
 
 .dropdown-item a {
     color: #eee;
